@@ -1,0 +1,5 @@
+skills on courses:
+skill one - terminal
+skil two - api
+skill three - json
+skill four - posman
