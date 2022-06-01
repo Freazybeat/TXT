@@ -1,0 +1,7 @@
+personal data
+first name: Denis
+last name: Belyarv
+patronymic: Dmitrievich
+age: 27
+number pets: 1 cat
+desired salary: 1000$
